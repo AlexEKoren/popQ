@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  popQ
 //
-//  Created by Alex Koren on 9/30/13.
+//  Created by Alex Koren on 9/23/13.
 //  Copyright (c) 2013 AKApps. All rights reserved.
 //
 
